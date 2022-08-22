@@ -1,4 +1,3 @@
-LOCAL
 ## merge & conflict
 
 By the end of this quest, I will be able to:
